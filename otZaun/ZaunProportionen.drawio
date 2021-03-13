@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T16:41:24.343Z" agent="5.0 (X11; CrOS x86_64 13597.105.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.208 Safari/537.36" etag="fcinROjDOa2LA3_HbtT3" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T16:51:01.222Z" agent="5.0 (X11; CrOS x86_64 13597.105.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.208 Safari/537.36" etag="bOKQ8-BS36BnJ2Es3pwq" version="14.4.8" type="github">
   <diagram id="FGcx9E1Y4onoBXSFR6wq" name="Page-1">
-    <mxGraphModel dx="390" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,16 +75,31 @@
         </mxCell>
         <mxCell id="zjI_xymQldbG3oin9Gea-26" value="20" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="320" as="sourcePoint" />
-            <mxPoint x="340" y="290" as="targetPoint" />
+            <mxPoint x="50" y="320" as="sourcePoint" />
+            <mxPoint x="50" y="293" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zjI_xymQldbG3oin9Gea-28" value="100" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="320" as="sourcePoint" />
-            <mxPoint x="360" y="220" as="targetPoint" />
+            <mxPoint x="70" y="320" as="sourcePoint" />
+            <mxPoint x="70" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zjI_xymQldbG3oin9Gea-29" value="Bestand, Riegel bei 20 und 75 cm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="40" width="80" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zjI_xymQldbG3oin9Gea-30" value="Bestand Höhe&lt;br&gt;100cm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="40" width="80" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zjI_xymQldbG3oin9Gea-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zjI_xymQldbG3oin9Gea-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="210" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zjI_xymQldbG3oin9Gea-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="210" width="60" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
